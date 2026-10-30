@@ -1,0 +1,22 @@
+{
+  "generator.vexvers.vexvers": "VexVers",
+  "biome.vexvers.windy_meadows": "Ветреные луга",
+  "biome.vexvers.sakura_vale": "Долина сакуры",
+  "biome.vexvers.emerald_rainforest": "Изумрудный лес",
+  "biome.vexvers.golden_dunes": "Золотые дюны",
+  "biome.vexvers.crimson_mesa": "Багровое плато",
+  "biome.vexvers.jade_highlands": "Нефритовое нагорье",
+  "biome.vexvers.frost_peaks": "Ледяные пики",
+  "biome.vexvers.azure_sea": "Лазурное море",
+  "biome.vexvers.deep_azure_sea": "Глубокое лазурное море",
+  "biome.vexvers.sunlit_shore": "Солнечный берег",
+  "biome.vexvers.crystal_river": "Хрустальная река",
+  "city.vexvers.windgaze": "Ветрозор",
+  "city.vexvers.windgaze.sub": "Город вольных ветров",
+  "city.vexvers.harbor": "Нефритовая Гавань",
+  "city.vexvers.harbor.sub": "Торговый порт",
+  "city.vexvers.sakura": "Лепестковая Роща",
+  "city.vexvers.sakura.sub": "Деревня под цветущими деревьями",
+  "city.vexvers.oasis": "Оазис Миражей",
+  "city.vexvers.oasis.sub": "Город песка и куполов"
+}

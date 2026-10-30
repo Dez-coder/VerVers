@@ -1,0 +1,16 @@
+{
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "distance": 22,
+    "spread": 1,
+    "count": 1,
+    "preferred_biomes": "#vexvers:has_city/harbor",
+    "salt": 71110002
+  },
+  "structures": [
+    {
+      "structure": "vexvers:harbor",
+      "weight": 1
+    }
+  ]
+}

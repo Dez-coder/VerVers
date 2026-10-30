@@ -1,0 +1,16 @@
+{
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "distance": 12,
+    "spread": 1,
+    "count": 1,
+    "preferred_biomes": "#vexvers:has_city/windgaze",
+    "salt": 71110001
+  },
+  "structures": [
+    {
+      "structure": "vexvers:windgaze",
+      "weight": 1
+    }
+  ]
+}
